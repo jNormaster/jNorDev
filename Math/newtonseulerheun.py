@@ -6,7 +6,7 @@ Semester oppgave FE-MAT1000 - 2014
 • Oppgave 1
 • Oppgave 2
 
-@author's: Jens, Pål, Joachim, Markus, Mads, Markus Elias, Tina og Uy Petter
+@author: Jens
 
 Laget ved hjelp av script fra Bjørn Jensen.
 
